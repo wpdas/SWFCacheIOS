@@ -1,7 +1,7 @@
 # SWFCacheIOS v1.0.0
 >Author: Wenderson Pires - wpdas@yahoo.com.br
 
-Using SWFCacheIOS you can load more than once a single SWF file. It is known that this is not possible in the iOS operating system. Here is the solution!
+Using SWFCacheIOS you can load more than once a single SWF file. It is known that this is not possible in the iOS operating system. Here is the solution to applications iOS AIR!
 
 ## How to use
 Example: [MainExample.as](https://github.com/Wpdas/Physic_AS3/tree/master/example).
