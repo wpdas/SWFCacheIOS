@@ -70,7 +70,7 @@ package
 			 * 
 			 * Possibilities:
 			 * addChild(SWFCacheIOS.instance.getLoadedSWF); Loader
-			 * addChild(SWFCacheIOS.instance.getLoadedSWF.contet); DisplayObject context (First level to access and manipulate the source class)
+			 * addChild(SWFCacheIOS.instance.getLoadedSWF.content); DisplayObject context (First level to access and manipulate the source class)
 			 */
 			addChild(SWFCacheIOS.instance.getLoadedSWF.content);
 		}
