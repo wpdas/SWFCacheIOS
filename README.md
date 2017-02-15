@@ -3,8 +3,8 @@
 
 Using SWFCacheIOS you can load more than once a single SWF file. It is known that this is not possible in the iOS operating system. Here is the solution to applications iOS AIR!
 
-## Apps/Games using this source:
-[App Store](https://itunes.apple.com/mx/developer/360e1-entretenimento/id1170254384).
+## Apps/Games using this source
+Games of the enterprise 360e1 Entretenimento: [App Store](https://itunes.apple.com/mx/developer/360e1-entretenimento/id1170254384).
 
 ## How to use
 Example: [MainExample.as](https://github.com/Wpdas/Physic_AS3/tree/master/example).
